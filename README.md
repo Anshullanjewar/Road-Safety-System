@@ -46,7 +46,7 @@ The usage of autos has significantly increased in the modern world. Since there 
   
 <table>
   <tr>
-    <td><img src="https://github.com/Anshullanjewar/Road-Safety-System/blob/main/Road%20Safety.png" width="1080" height="500"></td>
+    <td><img src="https://github.com/Anshullanjewar/Road-Safety-System/blob/main/Road%20Safety.png" width="1080"></td>
   </tr>
  </table>
  
