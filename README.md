@@ -25,27 +25,12 @@
 <p align="center" float="left">
 <table>
   <tr>
-    <td><img src="" width="1080"></td>
-    <td><img src="" width="1080"></td>
+    <td><img src="https://github.com/Anshullanjewar/Road-Safety-System/blob/main/Screenshot%20(191).png" width="1080"></td>
   </tr>
  </table>
 
 The usage of autos has significantly increased in the modern world. Since there are more people driving, there is more traffic, which has led to an increase in traffic accidents. Due to a lack of timely preventative and safety facilities, this damages the property and results in human life loss. Although complete accident avoidance is impossible, consequences can at least be lessened. This embedded system can take the necessary precautions to avoid accidents, and it does so. Because the position and a link to a Google Map were supplied to their smart devices with mobile network accessibility, the ambulance service and the police station can quickly locate the area. Eye blink sensors, temperature sensors, alcohol sensors, accelerometers, GPS modules, GSM modules, motors, buzzers, leds, and other components make up the system. These components are all connected to the core microcontroller unit. By selecting a certain time restriction, we will employ an eye blink sensor to detect sleep so that we may alert the driver if necessary. The temperature sensor aids in detecting engine heat so that we can alert the driver if the engine is running hotter than usual. Alcohol sensors assist us in determining whether or not a motorist is intoxicated. The car warns the driver if they are too intoxicated and the motor shuts off. When an accident occurs, the accelerometer sends a signal to the microcontroller so it may continue operating. The GPS module gives us real-time access to the location, speed, time, and date of the specific spot where the car is. In the event of an accident, the GSM module is used to notify the accident's position, which we learn via the GPS, to the police and ambulance service. After a minor collision, everything can be fine, in which case the driver can update the ambulance service and police station.
 
-<table>
-  <tr>
-    <td><img src="" width="1080" height="500"></td>
-  </tr>
- </table>
-
-
-
-
-<table>
-  <tr>
-    <td><img src="" width="1080" height="500"></td>
-  </tr>
- </table>
 
  
 ### Hardware Integrated
@@ -59,7 +44,12 @@ The usage of autos has significantly increased in the modern world. Since there 
 * 16*2 LCD Dispaly
 * Buzzer
   
-
+<table>
+  <tr>
+    <td><img src="https://github.com/Anshullanjewar/Road-Safety-System/blob/main/Road%20Safety.png" width="1080" height="500"></td>
+  </tr>
+ </table>
+ 
 ### WORKING 
 Algorithm for the working of the system:
 
